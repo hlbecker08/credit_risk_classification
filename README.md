@@ -31,6 +31,6 @@ Summarize the results of the machine learning models, and include a recommendati
 * The LogisticRegression model performs well for predicting a healthy loan status
 * It is important for us to be able to predict if a loan is at a high risk (1)
 
-This model does a fantastic job at predicting healthy loans at 100% but its ability to find high-risk could use some work. At an f1 score of 89% this is good but means 11% of high risk loans are missed. 
+I would recommend using this model. It does a fantastic job at predicting healthy loans at 100% although be aware its ability to find high-risk could use some work. At an f1 score of 89% this is good but means 11% of high risk loans are missed. 
 
 I worked on this challenge with Conner Dekok.
